@@ -11,22 +11,21 @@
   - Bootstrap,
   - Tailwind CSS,
   - SASS, 
-  - CSS.
+  - CSS,
   - HTML.
-  <br/> <br/>
-  
+  <br/> 
   
   Also, I constantly use the tools: VSCode, Notion, Trello, Discord.
   
   <h3> Languages and Tools:<h3>
     <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/>
-    <img src="    https://www.svgrepo.com/show/374016/python.svg" width="30" height="30" />
+    <img src="https://www.svgrepo.com/show/374016/python.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
     <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30"/>
-    <img src="    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
     
   <h3> Let's connect: <h3>
