@@ -29,8 +29,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
     
   <h3> Let's connect: <h3>
-    <a href="https://www.linkedin.com/in/lucasdegrande/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-    <a href="mailto:lucasdegrande15@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/1200px-Email_Shiny_Icon.svg.png" width="40" height="40"></img></a>
+    <a href="https://www.linkedin.com/in/lucasdegrande/"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
+    <a href="mailto:lucasdegrande15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img></a>
 
 <!-- **degrandelucas/degrandelucas** is repository `README.md` (this file) appears on my GitHub profile. 
 -->
