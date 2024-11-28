@@ -21,11 +21,11 @@
   
   <h3> Languages and Tools:<h3>
     <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/npm/load-svg-file@1.0.8/dist/load-svg-file.min.js" width="30" height="30"/> Spring Boot,
-    <img src="https://w7.pngwing.com/pngs/270/596/png-transparent-angular-logo-logos-logos-and-brands-icon.png" width="30" height="30"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="30" height="30"/> 
     <img src="https://www.svgrepo.com/show/374016/python.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
-    <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/> SQL, 
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="30" height="30"/> SQL, 
     <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30"/>
