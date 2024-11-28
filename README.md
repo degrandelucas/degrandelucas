@@ -25,7 +25,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="30" height="30"/> 
     <img src="https://www.svgrepo.com/show/374016/python.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
-    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="30" height="30"/> SQL, 
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="30" height="30"/>
     <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30"/>
