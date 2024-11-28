@@ -4,10 +4,12 @@
 👨‍💻 Graduated in Production Engineering. Studying Systems Analysis and Development. Looking for a opportunity.
 
 ➡️ I have skills with:
-  - Java, 
+  - Java,
+  - Spring Boot
+  - Angular, 
   - Python,
-  - JavaScript,
   - Git,
+  - SQL,
   - Bootstrap,
   - Tailwind CSS,
   - SASS, 
