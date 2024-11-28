@@ -15,7 +15,7 @@
   - HTML.
   <br/> 
   
-  Also, I constantly use the tools: VSCode, Notion, Trello, Discord.
+  Also, I constantly use the tools: Intellij IDEA, VSCode, Notion, Trello, Discord.
   
   <h3> Languages and Tools:<h3>
     <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/>
