@@ -5,7 +5,7 @@
 
 ➡️ I have skills with:
   - Java,
-  - Spring Boot
+  - Spring Boot,
   - Angular, 
   - Python,
   - Git,
@@ -21,7 +21,7 @@
   
   <h3> Languages and Tools:<h3>
     <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/npm/angular-svg-icon@19.0.0/+esm" width="30" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
     <img src="https://www.svgrepo.com/show/374016/python.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
