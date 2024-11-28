@@ -22,7 +22,7 @@
   <h3> Languages and Tools:<h3>
     <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/npm/load-svg-file@1.0.8/dist/load-svg-file.min.js" width="30" height="30"/> Spring Boot,
-    <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/> Angular, 
+    <img src="https://w7.pngwing.com/pngs/270/596/png-transparent-angular-logo-logos-logos-and-brands-icon.png" width="30" height="30"/> 
     <img src="https://www.svgrepo.com/show/374016/python.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
     <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/> SQL, 
