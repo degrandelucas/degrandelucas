@@ -4,8 +4,11 @@
 👨‍💻 Graduated in Production Engineering. Studying Systems Analysis and Development. Looking for a opportunity.
 
 ➡️ I have skills with:
+  - PHP,
+  - Laravel,
   - Java,
   - Spring Boot,
+  - Vue,
   - Angular, 
   - Python,
   - Git,
@@ -20,9 +23,12 @@
   Also, I constantly use the tools: Intellij IDEA, VSCode, Notion, Trello, Discord.
   
   <h3> Languages and Tools:<h3>
+    <img src="https://www.svgrepo.com/show/354180/php.svg" width="30" height="30"/>
+    <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="30" height="30"/>
     <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="30" height="30"/> 
+    <img src="https://www.svgrepo.com/show/354528/vue.svg" width="30" height="30" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="30" height="30"/>
     <img src="https://www.svgrepo.com/show/374016/python.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="30" height="30"/>
