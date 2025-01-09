@@ -6,18 +6,14 @@
 ➡️ I have skills with:
   - PHP,
   - Laravel,
-  - Java,
-  - Spring Boot,
-  - Vue,
-  - Angular, 
   - Python,
-  - Git,
-  - SQL,
+  - Vue,
   - Bootstrap,
   - Tailwind CSS,
-  - SASS, 
   - CSS,
-  - HTML.
+  - HTML,
+  - SQL,
+  - Git.
   <br/> 
   
   Also, I constantly use the tools: Intellij IDEA, VSCode, Notion, Trello, Discord.
@@ -25,18 +21,14 @@
   <h3> Languages and Tools:<h3>
     <img src="https://www.svgrepo.com/show/354180/php.svg" width="30" height="30"/>
     <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="30" height="30"/>
-    <img src="https://www.svgrepo.com/show/353924/java.svg" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="30" height="30"/>
-    <img src="https://www.svgrepo.com/show/354528/vue.svg" width="30" height="30" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="30" height="30"/>
     <img src="https://www.svgrepo.com/show/374016/python.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
-    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="30" height="30"/>
+    <img src="https://www.svgrepo.com/show/354528/vue.svg" width="30" height="30" width="30" height="30"/>
     <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
     
   <h3> Let's connect: <h3>
     <a href="https://www.linkedin.com/in/lucasdegrande/"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
