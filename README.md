@@ -16,7 +16,7 @@
   - Git.
   <br/> 
   
-  Also, I constantly use the tools: Intellij IDEA, VSCode, Notion, Trello, Discord.
+  Also, I constantly use the tools: VSCode, Intellij IDEA, Notion, Trello, Discord.
   
   <h3> Languages and Tools:<h3>
     <img src="https://www.svgrepo.com/show/354180/php.svg" width="30" height="30"/>
