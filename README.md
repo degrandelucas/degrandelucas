@@ -23,7 +23,7 @@
     <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="30" height="30"/>
     <img src="https://www.svgrepo.com/show/374016/python.svg" width="30" height="30" />
     <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="30" height="30" width="30" height="30"/>
-    <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" width="30" height="30" />
+    <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="30" height="30" />
     <img src="https://www.svgrepo.com/show/354047/materializecss.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
