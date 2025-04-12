@@ -1,5 +1,5 @@
 <h1 align="center">Hello, welcome to my GitHub profile.👋</h1>
-<h2 align="center">My name is Lucas Degrande</h2
+<h2 align="center">I am Lucas Degrande</h2
  
 👨‍💻 Graduated in Production Engineering. Studying Systems Analysis and Development. Looking for a opportunity.
 
@@ -16,7 +16,7 @@
   - Git.
   <br/> 
   
-  Also, I constantly use the tools: VSCode, Intellij IDEA, Notion, Trello, Discord.
+  Also, I constantly use the tools: VSCode, PhpStorm, Notion, Trello, Discord.
   
   <h3> Languages and Tools:<h3>
     <img src="https://www.svgrepo.com/show/354180/php.svg" width="30" height="30"/>
